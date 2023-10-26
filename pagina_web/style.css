@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+header{ 
+    display:flex;
+    
+    align-items: center;
+}
+
+header ul{
+display: flex;
+grid-gap: 30px;
+justify-content: space-between;
+align-items: center;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:large;
+}
+header p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+}
+
